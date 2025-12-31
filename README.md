@@ -742,9 +742,9 @@ The data has illuminated the path forward. By addressing the **₹1 Crore revenu
 ## 👨‍💻 Author
 
 **Daiwik Rankawat**  
-*BS in Data Science and Applications, IIT Madras*  
-*B.Sc in Biology, JNVU*
+*BS in Data Science and Applications, IIT Madras   -2027 (Graduate)*  
+*B.Sc in Biology, JNVU -2023 (Graduate)*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/daiwik-rankawat/) 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/daiwik-project)
-```
+
